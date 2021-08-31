@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ignite/static/css/main.6deff19d.chunk.css",
+    "main.js": "/ignite/static/js/main.b98f80a0.chunk.js",
+    "main.js.map": "/ignite/static/js/main.b98f80a0.chunk.js.map",
+    "runtime-main.js": "/ignite/static/js/runtime-main.fa01f39b.js",
+    "runtime-main.js.map": "/ignite/static/js/runtime-main.fa01f39b.js.map",
+    "static/js/2.f12e14b7.chunk.js": "/ignite/static/js/2.f12e14b7.chunk.js",
+    "static/js/2.f12e14b7.chunk.js.map": "/ignite/static/js/2.f12e14b7.chunk.js.map",
+    "static/js/3.22e875d8.chunk.js": "/ignite/static/js/3.22e875d8.chunk.js",
+    "static/js/3.22e875d8.chunk.js.map": "/ignite/static/js/3.22e875d8.chunk.js.map",
+    "index.html": "/ignite/index.html",
+    "static/css/main.6deff19d.chunk.css.map": "/ignite/static/css/main.6deff19d.chunk.css.map",
+    "static/js/2.f12e14b7.chunk.js.LICENSE.txt": "/ignite/static/js/2.f12e14b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa01f39b.js",
+    "static/js/2.f12e14b7.chunk.js",
+    "static/css/main.6deff19d.chunk.css",
+    "static/js/main.b98f80a0.chunk.js"
+  ]
+}
